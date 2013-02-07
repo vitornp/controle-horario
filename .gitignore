@@ -1,0 +1,7 @@
+# Pasta
+/nbproject/
+/vendor/
+/log/*.log
+
+# Arquivo
+composer.lock
