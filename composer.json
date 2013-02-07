@@ -1,0 +1,22 @@
+{
+    "name": "vitornp/controle-horario",
+    "description": "Controle de horário",
+    "require": {
+        "silex/silex": "1.0.*",
+        "twig/twig": ">=1.8, <2.0-dev",
+        "symfony/config": "2.1.*",
+        "symfony/console": "2.1.*",
+        "symfony/form": "2.1.*",
+        "symfony/locale": "2.1.*",
+        "symfony/translation": "2.1.*",
+        "symfony/twig-bridge": "2.1.*",
+        "symfony/validator": "2.1.*",
+        "symfony/security": "2.1.*",
+        "symfony/yaml": "2.1.*",
+        "doctrine/dbal": "2.2.*",
+        "doctrine/orm": "2.2.*",
+        "igorw/config-service-provider": "1.*",
+        "monolog/monolog": ">=1.0.0"
+    },
+    "minimum-stability": "dev"
+}

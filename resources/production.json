@@ -1,0 +1,9 @@
+{
+	"debug": false,
+	"driver": "pdo_mysql",
+	"host": "",
+	"port": "",
+	"user": "",
+	"password": "",
+	"dbname": ""
+}
